@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# AULA 1 DA JORNADA PYTHON 
-
 # In[5]:
 
 
